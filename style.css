@@ -1,0 +1,23 @@
+#btn1{
+width:100%;
+font-size: 23px;
+}
+#btn2{
+background-color: white;
+box-shadow: 5,5,5 grey;
+color: black;
+border-radius: 20px;
+float: none;
+font-size: 20px;
+padding: 10px;
+}
+#btn2prt2{
+    font-size: 18px;
+}
+#ftr{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: gray;
+    text-align: center;
+}
