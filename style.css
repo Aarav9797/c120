@@ -21,3 +21,9 @@ padding: 10px;
     background-color: gray;
     text-align: center;
 }
+canvas{
+    border: black;
+    border-width: 5px;
+    border-style: solid;
+    margin-top: 400px;
+}
